@@ -1,0 +1,30 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+#app {
+    background-image: url("https://aigc.luomor.com/wp-content/uploads/2023/12/v2-b5689d2e2bba3484b9411b113d35f934_1440w.webp.jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-attachment: fixed;
+    background-size: 50%;
+    height: 100px;
+    outline:5px solid;
+    text-align:center;
+}
+#two{
+    padding: 10px;
+}
+#two img{
+    width:200;
+}
+div{
+    font-family: "Noto Sans TC", sans-serif;
+    font-family: "Fredoka", sans-serif;
+}
+#two #about{
+    border-radius: 3px;
+    padding: 3px;
+}   
